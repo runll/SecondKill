@@ -1,1 +1,3 @@
 # SecondKill
+
+Springboot + Redis + RabbitMQ
